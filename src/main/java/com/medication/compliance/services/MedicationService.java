@@ -2,14 +2,11 @@ package com.medication.compliance.services;
 
 import java.sql.Timestamp;
 import java.time.LocalDate;
-import java.time.ZoneId;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

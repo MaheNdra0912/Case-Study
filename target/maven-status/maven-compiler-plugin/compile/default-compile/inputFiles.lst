@@ -1,0 +1,11 @@
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/MedicationComplianceApplication.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/controllers/AnalyticsController.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/controllers/ComplianceController.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/controllers/IntakeController.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/models/Intake.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/models/Medication.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/models/Schedule.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/repos/IntakeRepo.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/repos/MedicationRepo.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/repos/ScheduleRepo.java
+/Users/indra/Documents/STS Repo/medication-compliance/src/main/java/com/medication/compliance/services/MedicationService.java

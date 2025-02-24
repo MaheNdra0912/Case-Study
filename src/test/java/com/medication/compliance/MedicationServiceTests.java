@@ -10,7 +10,6 @@ import static org.mockito.Mockito.when;
 
 import java.time.LocalDate;
 import java.util.Collections;
-import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
@@ -97,7 +96,7 @@ class MedicationServiceTest {
             "missed_count", 2L
         );
 
-        // Mock calculateCompliance() to return compliance rate for the period
+
         when(medicationService.calculateCompliance(userId, medicationId, startDate, endDate))
             .thenReturn(mockComplianceData);
 
